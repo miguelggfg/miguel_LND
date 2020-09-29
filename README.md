@@ -1,6 +1,7 @@
-# miguel_LND
-Lenguaje De Marcas
-Este repositorio lo usaremos para la asignatura de Lenguaje de marcas. 
-En el repositorio podemos encontrar las siguientes carpetas: 
-práticas
-tareas
+# ***Lenguaje de Marcas***
+**Este repositorio lo usaremos para la asignatura de Lenguaje de marcas.**
+
+
+En el repositorio podemos encontrar las siguientes carpetas:
+- práticas `\miguel_LND\prácticas\`
+- tareas `\miguel_LND\tareas\`
